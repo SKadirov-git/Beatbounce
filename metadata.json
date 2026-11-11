@@ -1,0 +1,6 @@
+{
+  "name": "BEATBOUNCE",
+  "description": "3D Cyberpunk Rhythm Game with music-synchronized jumping ball and neon platforms by SUBHON & SAYOD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
